@@ -1,0 +1,8 @@
+@font-face {
+font-family: "deyihei";
+src: url("/css/deyihei.ttf") format("truetype");
+}
+@font-face {
+font-family: "mi";
+src: url("/css/misansl3.ttf") format("truetype");
+}
